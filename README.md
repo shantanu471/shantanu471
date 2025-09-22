@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔗 Tree: [https://linktr.ee/shaan_4712](https://linktr.ee/shaan_4712)
-
 - 📫 Mail me at: **shaan2k3@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-web-tawny-tau.vercel.app/](https://portfolio-web-tawny-tau.vercel.app/)
